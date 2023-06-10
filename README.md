@@ -1,0 +1,1 @@
+Please, download the weights for the convolution function, available on https://www.dropbox.com/s/vv8tgashautwfyt/yolov3.weights?dl=0
